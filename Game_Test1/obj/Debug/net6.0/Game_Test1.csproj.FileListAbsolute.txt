@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Бродилка на C#\Game_Test1\bin\Debug\net6.0\Game_Test1.exe
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Бродилка на C#\Game_Test1\bin\Debug\net6.0\Game_Test1.deps.json
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Бродилка на C#\Game_Test1\bin\Debug\net6.0\Game_Test1.runtimeconfig.json
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Бродилка на C#\Game_Test1\bin\Debug\net6.0\Game_Test1.dll
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Бродилка на C#\Game_Test1\bin\Debug\net6.0\Game_Test1.pdb
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Бродилка на C#\Game_Test1\obj\Debug\net6.0\Game_Test1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Бродилка на C#\Game_Test1\obj\Debug\net6.0\Game_Test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Бродилка на C#\Game_Test1\obj\Debug\net6.0\Game_Test1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Бродилка на C#\Game_Test1\obj\Debug\net6.0\Game_Test1.AssemblyInfo.cs
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Бродилка на C#\Game_Test1\obj\Debug\net6.0\Game_Test1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Бродилка на C#\Game_Test1\obj\Debug\net6.0\Game_Test1.dll
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Бродилка на C#\Game_Test1\obj\Debug\net6.0\refint\Game_Test1.dll
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Бродилка на C#\Game_Test1\obj\Debug\net6.0\Game_Test1.pdb
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Бродилка на C#\Game_Test1\obj\Debug\net6.0\Game_Test1.genruntimeconfig.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Бродилка на C#\Game_Test1\obj\Debug\net6.0\ref\Game_Test1.dll
